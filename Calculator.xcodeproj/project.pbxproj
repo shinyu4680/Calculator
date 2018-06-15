@@ -12,6 +12,7 @@
 		0A6CE3E420CFC1F200E5C1CB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0A6CE3E220CFC1F200E5C1CB /* Main.storyboard */; };
 		0A6CE3E620CFC1F400E5C1CB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0A6CE3E520CFC1F400E5C1CB /* Assets.xcassets */; };
 		0A6CE3E920CFC1F400E5C1CB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0A6CE3E720CFC1F400E5C1CB /* LaunchScreen.storyboard */; };
+		0ACCED9420D3612E0088F578 /* remainder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0ACCED9320D3612E0088F578 /* remainder.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		0A6CE3E520CFC1F400E5C1CB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0A6CE3E820CFC1F400E5C1CB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0A6CE3EA20CFC1F400E5C1CB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0ACCED9320D3612E0088F578 /* remainder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = remainder.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				0A6CE3DE20CFC1F200E5C1CB /* AppDelegate.swift */,
 				0A6CE3E020CFC1F200E5C1CB /* ViewController.swift */,
 				0A6CE3E220CFC1F200E5C1CB /* Main.storyboard */,
+				0ACCED9320D3612E0088F578 /* remainder.swift */,
 				0A6CE3E520CFC1F400E5C1CB /* Assets.xcassets */,
 				0A6CE3E720CFC1F400E5C1CB /* LaunchScreen.storyboard */,
 				0A6CE3EA20CFC1F400E5C1CB /* Info.plist */,
@@ -137,6 +140,7 @@
 			files = (
 				0A6CE3E120CFC1F200E5C1CB /* ViewController.swift in Sources */,
 				0A6CE3DF20CFC1F200E5C1CB /* AppDelegate.swift in Sources */,
+				0ACCED9420D3612E0088F578 /* remainder.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
